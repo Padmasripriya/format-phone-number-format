@@ -1,4 +1,4 @@
-function phoneNumberFormat() {
+function phoneNumberInput() {
     // grab the value of what the user is typing into the input
     var input = document.getElementById("phone");
     // next, we're going to format this input with the `formatInput` function
